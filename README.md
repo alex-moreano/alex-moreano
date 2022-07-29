@@ -37,6 +37,13 @@
   <img align="center" alt="canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  
 </div>
 
+<div>
+  <h3>I can talk:</h3>
+  <img align="center" alt="french" height="50" width="50" src="https://user-images.githubusercontent.com/70991687/181850380-666463b1-5856-40f4-b63e-83d501bbf5c4.png">
+  <img align="center" alt="english" height="50" width="50" src="https://user-images.githubusercontent.com/70991687/181850488-50bbb6bf-a76e-4ea6-80e9-cdee6a82330d.png"/> 
+  <img align="center" alt="spanish" height="50" width="50" src="https://user-images.githubusercontent.com/70991687/181850693-aaf3d2d2-9938-41d2-8a6b-05b91bca2e12.png" />  
+</div>
+
 ##
 <div>
   <h3>Find me here: </h3>
