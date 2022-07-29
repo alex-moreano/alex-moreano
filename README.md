@@ -69,4 +69,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/alex-moreano/alex-moreano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/alex-moreano/blob/output/github-contribution-grid-snake.svg)
