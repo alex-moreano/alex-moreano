@@ -38,7 +38,8 @@
 
 ##
 <div>
+  <h3>Find me here: </h3>
   <a href="https://twitter.com/alxmoreano?lang=es" target="_blank">
-    <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
 </div>
