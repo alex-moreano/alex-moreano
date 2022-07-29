@@ -67,6 +67,5 @@
    <a href="https://www.welcome-to-urban.slack.com/team/U03EQQ2RTB9" target="_blank">
     <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
   </a>
+    ![Snake animation](https://github.com/alex-moreano/alex-moreano/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-![Snake animation](https://github.com/rafaballerini/alex-moreano/blob/output/dist/github-contribution-grid-snake.svg)
