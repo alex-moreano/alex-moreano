@@ -42,4 +42,18 @@
   <a href="https://twitter.com/alxmoreano?lang=es" target="_blank">
     <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
+  <a href="https://www.instagram.com/alexmoreanom/" target="_blank">
+    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="discordapp.com/users/A-L-E-X#9704" target="_blank">
+    <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  <a href="https://ec.linkedin.com/in/alex-moreano-b84574188" target="_blank">
+    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:alex.moreanom@hotmail.com" target="_blank">
+    <img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  <a href="mailto:alxstaleycobain@gmail.com" target="_blank">
+    <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
