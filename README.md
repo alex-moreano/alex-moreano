@@ -45,7 +45,7 @@
   <a href="https://www.instagram.com/alexmoreanom/" target="_blank">
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="discordapp.com/users/A-L-E-X#9704" target="_blank">
+  <a href="https://www.discordapp.com/users/A-L-E-X#9704" target="_blank">
     <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   <a href="https://ec.linkedin.com/in/alex-moreano-b84574188" target="_blank">
