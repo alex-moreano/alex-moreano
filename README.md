@@ -1,4 +1,4 @@
-###              Hi! I'm Alex Moreano 👋 || Hola soy Alex Moreano 👋 || Bonjour, Je suis Alex Moreano 👋
+<h2> Hi! I'm Alex Moreano 👋 || Hola soy Alex Moreano 👋 || Bonjour, Je suis Alex Moreano 👋 </h2>
 
 <!--
 **alex-moreano/alex-moreano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
