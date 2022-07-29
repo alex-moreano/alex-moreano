@@ -23,7 +23,7 @@
   <img align="center" alt="postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="mongo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="right" alt="gif-alex" src="https://picrew.me/shareImg/org/202207/338224_2MSyDayr.png">
+  <img align="right" alt="gif-alex" height="150" width="150" src="https://media.giphy.com/media/kLANgy8oIlfj8FJauC/giphy.gif">
 </div>
 
 
