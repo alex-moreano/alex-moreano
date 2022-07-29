@@ -1,7 +1,7 @@
 <h2 align="center">Hi! I'm Alex Moreano || Hola soy Alex Moreano 👋 || Bonjour, Je suis Alex Moreano</h2>
 <div align="center">
   <a href="https://github.com/alex-moreano">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-moreano&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-moreano&show_icons=true&theme=highcontrast&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-moreano&layout=compact&langs_count=16&theme=highcontrast"/>
   </a>
 </div>
@@ -23,6 +23,7 @@
   <img align="center" alt="postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="mongo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="right" alt="gif-alex" src="https://picrew.me/shareImg/org/202207/338224_2MSyDayr.png">
 </div>
 
 
@@ -55,5 +56,8 @@
     <img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   <a href="mailto:alxstaleycobain@gmail.com" target="_blank">
     <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+   <a href="https://www.welcome-to-urban.slack.com/team/U03EQQ2RTB9" target="_blank">
+    <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
   </a>
 </div>
