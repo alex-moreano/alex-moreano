@@ -1,8 +1,8 @@
 <h2 align="center">Hi! I'm Alex Moreano || Hola soy Alex Moreano 👋 || Bonjour, Je suis Alex Moreano</h2>
 <div>
   <a href="https://github.com/alex-moreano">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-moreano&show_icons=true&theme=highcontrast&include_all&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-moreano&layout=compact&langs_count=15&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-moreano&show_icons=true&theme=highcontrast&include_all&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-moreano&layout=compact&langs_count=15&theme=highcontrast"/>
   </a>
 </div>
 
