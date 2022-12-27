@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm Alex Moreano || Hola soy Alex Moreano 👋 || Bonjour, Je suis Alex Moreano</h2>
+<h2 align="center">Hi! I'm Alex Moreano !!</h2>
 <div align="center">
   <a href="https://github.com/alex-moreano">
     <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api?username=alex-moreano&show_icons=true&theme=highcontrast&include_all&count_private=true"/>
