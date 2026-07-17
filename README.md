@@ -35,8 +35,6 @@
 
 <h3>Profile</h3>
 
-<img align="right" alt="Profile Animation" height="130" style="border-radius:10px; margin-left: 20px;" src="https://media.giphy.com/media/kLANgy8oIlfj8FJauC/giphy.gif">
-
 <p>Software Developer with a strong focus on building scalable, efficient, and clean solutions. Experienced in full-stack development, database management, and modern web frameworks. Constantly seeking to expand my technical skill set and contribute to impactful projects.</p>
 
 <ul>
